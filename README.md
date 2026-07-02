@@ -52,3 +52,6 @@ Note: the PIN is a convenience gate for a static page, not real security. Anyone
 ## Where edits live
 
 Imported data is refreshed from your Excel link on every sync; records added in-app are kept separately and survive re-syncs. Everything is stored in the browser (localStorage) per device. Use **Settings → Download backup** to move data between devices or keep an offline copy.
+
+
+Live app: https://j0hknee.github.io/Workforce-2.1/
